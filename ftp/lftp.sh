@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 lftp -u ${USER},${PASSWORD} sftp://${IP}:${PORT} <<EOF
 cd ${SEVERDIR}/
