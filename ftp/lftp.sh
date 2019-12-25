@@ -6,4 +6,4 @@ ls
 lcd ${CLIENTDIR}
 get ${FILE}
 bye
-EO
+EOF
