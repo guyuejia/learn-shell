@@ -1,0 +1,6 @@
+name=zhang
+age=20
+sex=man
+
+
+
